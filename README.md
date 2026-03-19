@@ -9,8 +9,8 @@ El patrón Composite permite tratar objetos individuales y grupos de objetos de 
 
 Dentro de este proyecto:
 
-Un componente individual → RAM
-Un conjunto de componentes → toda la PC
+- Un componente individual → RAM
+- Un conjunto de componentes → toda la PC
 
 ## Estructura del programa
 
@@ -22,14 +22,14 @@ Define la estructura base del sistema. Todas las piezas de la PC heredan de esta
 2. Clase ComponenteSimple: 
 Representa un componente individual como CPU, GPU, RAM, etc.
 
-✔ Tiene un precio fijo
-✔ No contiene otros objetos
+- Tiene un precio fijo
+- No contiene otros objetos
 
 3. Clase Composite: 
 Es una clase que puede contener otros componentes, ya sean simples o compuestos.
 
-✔ Guarda una lista de componentes
-✔ Suma todos los precios
+- Guarda una lista de componentes
+- Suma todos los precios
 
 Ejemplo en el programa:
 
@@ -42,9 +42,9 @@ Ejemplo en el programa:
 
 Aquí es donde el usuario arma la PC seleccionando los componentes.
 
-✔ El usuario elige gama: baja, media o alta
-✔ Se agregan los componentes a la estructura
-✔ Se calcula el total automáticamente
+- El usuario elige gama: baja, media o alta
+- Se agregan los componentes a la estructura
+- Se calcula el total automáticamente
 
 ## Diagrama UML
 
@@ -57,6 +57,7 @@ Aquí es donde el usuario arma la PC seleccionando los componentes.
 
 El patrón Composite me permitió organizar los componentes de la PC de forma jerárquica, facilitando el cálculo del precio total y haciendo el sistema flexible, escalable y fácil de mantener.
 
+## Breve explicacion 
 ## Referencias
 
 https://www.bing.com/search?pglt=675&q=como+funciona+el+patron+composite&cvid=565675218563483781c684ce5c597a0f&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIHCAEQ6wcYQDIGCAIQABhAMgYIAxAAGEAyBggEEAAYQDIGCAUQABhAMgYIBhAAGEAyBggHEAAYQDIGCAgQABhAMggICRDpBxj8VdIBCDY2MTlqMGoxqAIAsAIA&FORM=ANNAB1&PC=U531
