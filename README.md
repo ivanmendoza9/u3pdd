@@ -52,3 +52,13 @@ Aquí es donde el usuario arma la PC seleccionando los componentes.
 ## Conclusion
 
 El patrón Composite me permitió organizar los componentes de la PC de forma jerárquica, facilitando el cálculo del precio total y haciendo el sistema flexible, escalable y fácil de mantener.
+
+## Referencias
+
+https://www.bing.com/search?pglt=675&q=como+funciona+el+patron+composite&cvid=565675218563483781c684ce5c597a0f&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIHCAEQ6wcYQDIGCAIQABhAMgYIAxAAGEAyBggEEAAYQDIGCAUQABhAMgYIBhAAGEAyBggHEAAYQDIGCAgQABhAMggICRDpBxj8VdIBCDY2MTlqMGoxqAIAsAIA&FORM=ANNAB1&PC=U531
+
+https://reactiveprogramming.io/blog/es/patrones-de-diseno/composite
+
+https://chatgpt.com/
+
+https://es.scribd.com/document/446160472/Patrones-de-diseno-Composite
