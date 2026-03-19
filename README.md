@@ -46,6 +46,10 @@ Aquí es donde el usuario arma la PC seleccionando los componentes.
 ✔ Se agregan los componentes a la estructura
 ✔ Se calcula el total automáticamente
 
+## Diagrama UML
+
+
+
 ## Programa en ejecucion:
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/71d7f595-2877-4d09-9099-93deaad353d7" />
 
